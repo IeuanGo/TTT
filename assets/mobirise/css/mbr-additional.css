@@ -73,6 +73,15 @@
 #footer1-o P {
   text-align: center;
 }
+#msg-box3-q .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-q .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-q .lead P {
+  text-align: center;
+}
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
