@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -21,7 +21,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 29,
+    "uniqCompNum": 39,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -29,7 +29,7 @@
     "contact us.html": {
       "settings": {
         "title": "Contact Us",
-        "order": 3,
+        "order": 4,
         "meta_descr": "If you would like to contact Tenby Techno Team this is the place to go. We will try to respond to your message ASAP."
       },
       "components": [
@@ -113,7 +113,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -223,7 +223,7 @@
     "meet the team.html": {
       "settings": {
         "title": "Meet the Team",
-        "order": 2,
+        "order": 3,
         "meta_descr": "You've read about what we do and what we plan to do, now it's time to see who we are."
       },
       "components": [
@@ -292,7 +292,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ftc-960x320.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ftc-group-photo-680x510.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -318,28 +318,6 @@
             }
           },
           "_anchor": "header4-k"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#e3f5fa",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Follow Us",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ygs_firsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ygsfirsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ygs_firsttech/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-s"
         },
         {
           "_styles": {
@@ -385,7 +363,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -522,13 +500,35 @@
           ],
           "_name": "features1",
           "_anchor": "features1-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e3f5fa",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ygs_firsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ygsfirsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ygs_firsttech/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-s"
         }
       ]
     },
     "page3.html": {
       "settings": {
         "title": "Sponsorships",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -575,7 +575,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -760,7 +760,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -772,7 +772,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
@@ -790,7 +790,7 @@
           },
           "title": "First Tech Challenge&nbsp;",
           "text": "This year we have decided to participate in the First Tech challenge. This is an exciting opportunity for us, and we are looking forward to this.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header4-a\" data-toolbar=\"-mbrBtnMove\">Let's Go</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"javascript:OpenModal('countdown-timer')\" data-toolbar=\"-mbrBtnMove\">Count down till scrimmage</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -831,7 +831,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ftc-1-960x320.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ftc-group-photo-680x510.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -944,9 +944,9 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.9"
           },
-          "title": "Special Thank You To TechnoCamps for the intial registerastion fee",
+          "title": "Special Thank You To TechnoCamps for the amazing support",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Without Technocamps of Swansea Uni, we would not of been given this amazing opportunity to enter the First Tech Challenge.</p>",
+          "text": "<p>Without Technocamps of Swansea Uni, we would not of been given this amazing opportunity to enter the First Tech Challenge. But it doesn't end there when we were had a lack of sponsors, TechnoCamps stepped in and were able to provide transport to the Scrimage which is a beneficaical but not required event.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.technocamps.com/en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check Them Out Here</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -1061,6 +1061,123 @@
               "text-align": "center"
             }
           }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "secret cool page",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact us.html#header4-e\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html#header4-p\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet the team.html#msg-box4-m\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-x"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/it-background-3-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2019 Tenby Techno Team | Developed by Ieuan",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-y"
+        },
+        {
+          "_params": {
+            "modalName": "countdown-timer",
+            "modalSize": "medium",
+            "modalHeader": true,
+            "modalTitle": "Countdown:",
+            "modalBody": "<iframe src=\"https://free.timeanddate.com/countdown/i71k5w22/n1336/cf113/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac000/cpc333/pc00e60b/tc000/fs100/szw576/szh243/tatTime%20left%20till%20the%20scrimmage%20in/tac000/tptTime%20since%20the%20scrimmage%20started%20in/tpc000/mac000/mpc000/iso2019-12-05T12:30:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"576\" height=\"243\"></iframe>\n",
+            "modalBodyHTML": true,
+            "modalFooter": true,
+            "modalCloseBtn": true,
+            "modalCloseText": "Close",
+            "modalLink": false,
+            "modalLinkUrl": "https://mobirise.com/",
+            "modalLinkText": "Visit Mobirise",
+            "modalLinkNewWindow": true,
+            "modalVerticalCenter": false,
+            "modalFade": true,
+            "modalAutoOpen": false,
+            "modalAutoOpenOnce": true,
+            "modalAutoOpenGDPR": true,
+            "modalAutoOpenDelay": 0
+          },
+          "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#countdown-timer\">Preview countdown-timer</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#countdown-timer-howtouse\">How to use countdown-timer</a>\n</div>\n<div class=\"modal fade\" id=\"countdown-timer-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"countdown-timer-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"countdown-timer-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('countdown-timer')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
+          "modalBody": "<iframe src=\"https://free.timeanddate.com/countdown/i71k5w22/n1336/cf113/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac000/cpc333/pc00e60b/tc000/fs100/szw576/szh243/tatTime%20left%20till%20the%20scrimmage%20in/tac000/tptTime%20since%20the%20scrimmage%20started%20in/tpc000/mac000/mpc000/iso2019-12-05T12:30:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"576\" height=\"243\"></iframe>\n",
+          "alias": "witsec-modal-window",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-modal-window-block",
+          "_anchor": "witsec-modal-window-block-12",
+          "modalWindow": "<div class=\"modal fade\" id=\"countdown-timer\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"countdown-timerLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog  \" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"countdown-timerLabel\">Countdown:</h5>  <a href=\"#\" class=\"no-anim close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"countdown-timer_body\"><iframe src=\"https://free.timeanddate.com/countdown/i71k5w22/n1336/cf113/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac000/cpc333/pc00e60b/tc000/fs100/szw576/szh243/tatTime%20left%20till%20the%20scrimmage%20in/tac000/tptTime%20since%20the%20scrimmage%20started%20in/tpc000/mac000/mpc000/iso2019-12-05T12:30:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"576\" height=\"243\"></iframe>\n</div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"#\" class=\"no-anim btn btn-secondary display-4\" data-dismiss=\"modal\">Close</a></div></div>    </div>  </div></div><script>document.addEventListener(\"DOMContentLoaded\", function() {  $(\"#countdown-timer\").on(\"hidden.bs.modal\", function () {    var html = $( \"#countdown-timer_body\" ).html();    $( \"#countdown-timer_body\" ).empty();    $( \"#countdown-timer_body\" ).append(html);  })});</script>"
         }
       ]
     }

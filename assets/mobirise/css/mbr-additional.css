@@ -114,3 +114,26 @@
 #footer1-0 P {
   text-align: center;
 }
+#dropdown-menu-x .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-x .nav .link,
+#dropdown-menu-x .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-x .navbar,
+#dropdown-menu-x .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-x .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-x .dropdown-menu a:hover,
+#dropdown-menu-x .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-x .navbar-toggler {
+  color: #000000;
+}
+#footer1-y P {
+  text-align: center;
+}
