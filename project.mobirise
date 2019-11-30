@@ -19,18 +19,6 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "cookiesAlert": {
-      "customDialogSelector": true,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "<b> We're excitied for the scrimmage</b> <iframe src=\"https://free.timeanddate.com/countdown/i71m1vel/n1336/cf113/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pc00e60b/tc000/fs100/szw320/szh135/tatTime%20left%20till%20Scrimmage%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/mac000/mpc000/iso2019-12-05T12:30:00\" allowTransparency=\"true\" frameborder=\"0\" width=\"320\" height=\"135\"></iframe>\n",
-      "textButton": "Close"
-    },
     "uniqCompNum": 41,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
@@ -280,7 +268,7 @@
           },
           "title": "Special Thank You To TechnoCamps for the amazing support",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Without Technocamps of Swansea Uni, we would not of been given this amazing opportunity to enter the First Tech Challenge. But it doesn't end there when we were had a lack of sponsors, TechnoCamps stepped in and were able to provide transport to the Scrimage which is a beneficaical but not required event.&nbsp;</p>",
+          "text": "<p>Without Technocamps of Swansea Uni, we would not of been given this amazing opportunity to enter the First Tech Challenge. But it doesn't end there when we were had a lack of sponsors, TechnoCamps stepped in and were able to provide transport to the Scrimage which is a real beneficaical event.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.technocamps.com/en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check Them Out Here</a> ",
           "alias": "purity/components",
           "_tags": [
