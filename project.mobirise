@@ -266,9 +266,9 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.9"
           },
-          "title": "Special Thank You To TechnoCamps for the amazing support",
+          "title": "Special Thank You To Technocamps for the amazing support",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Without Technocamps of Swansea Uni, we would not of been given this amazing opportunity to enter the First Tech Challenge. But it doesn't end there when we were had a lack of sponsors, TechnoCamps stepped in and were able to provide transport to the Scrimage which is a real beneficaical event.</p>",
+          "text": "<p>Without Technocamps of Swansea Uni, we would not have been given this amazing opportunity to enter the First Tech Challenge. But it doesn't end there when we have had a lack of sponsors, TechnoCamps stepped in and were able to provide transport to the Scrimmage which is a really beneficial event.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.technocamps.com/en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check Them Out Here</a> ",
           "alias": "purity/components",
           "_tags": [
