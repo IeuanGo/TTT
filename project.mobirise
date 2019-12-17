@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "meet-the-team.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,13 +19,14 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "witsec-language": "en",
     "witsec-white-label": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "gdpr": false
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -69,7 +70,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -268,7 +269,7 @@
           },
           "title": "Special Thank You To Technocamps for the amazing support",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Without Technocamps of Swansea Uni, we would not have been given this amazing opportunity to enter the First Tech Challenge. But it doesn't end there when we have had a lack of sponsors, TechnoCamps stepped in and were able to provide transport to the Scrimmage which is a really beneficial event.</p>",
+          "text": "<p>Without Technocamps of Swansea Uni, we would not have been given this amazing opportunity to enter the First Tech Challenge. But it doesn't end there when we have had a lack of sponsors, Technocamps stepped in and were able to provide transport to the Scrimmage which is a really beneficial event.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.technocamps.com/en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check Them Out Here</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -401,14 +402,14 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "8",
+            "imageSize": "5",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -458,7 +459,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ftc-group-photo-680x510.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/group-photo-outside-gh-960x720.jpeg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -516,7 +517,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -566,16 +567,16 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": false,
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
-            "columns": 4,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e6e0dc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -586,7 +587,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/78454271-2581885965192450-7203270680698159104-o-600x400.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -602,7 +603,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20191022-135438-1-600x800.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -618,7 +619,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20191022-1414581-600x450.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -634,7 +635,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20191205-141939-600x800.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -648,14 +649,14 @@
               "size": 0
             }
           },
-          "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title1": "Peter",
+          "caption1": "This is Peter, he is the software engineer who is creating the code to control the robot",
+          "title2": "Oscar",
+          "caption2": "This is Oscar, he is our engineer and bulider. He in control of building the robot",
+          "title3": "Will and Alex",
+          "caption3": "Will (Left) and Alex (right) are in charge of the groups social media and e-mail possible sponsers",
+          "title4": "Isaac",
+          "caption4": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -666,6 +667,111 @@
           ],
           "_name": "features1",
           "_anchor": "features1-i"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e6e0dc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20191205-142743-600x800.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20191205-142012-600x800.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20191205-143348-600x800.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20191205-141939-600x800.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Dylan",
+          "caption1": "",
+          "title2": "Sam",
+          "caption2": "",
+          "title3": "Mrs Price",
+          "caption3": "",
+          "title4": "-",
+          "caption4": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-15"
         },
         {
           "_params": {
@@ -765,7 +871,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -924,7 +1030,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsornships</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
