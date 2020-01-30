@@ -28,7 +28,9 @@
     "gdpr": false,
     "cookiesAlert": false,
     "imageResize": true,
-    "htmltag": "<html>"
+    "htmltag": "<html>",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "meet-the-team.html": {
@@ -189,7 +191,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ftc%20logo%20transparent%20-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -565,7 +567,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ftc%20logo%20transparent%20-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -704,7 +706,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ftc%20logo%20transparent%20-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1060,7 +1062,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ftc%20logo%20transparent%20-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1158,7 +1160,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sam-cheering-2000x1296.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sam%20cheering-2000x1296.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#FFF8E0",
@@ -1246,7 +1248,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ftc-logo-transparent-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ftc%20logo%20transparent%20-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1325,21 +1327,21 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sam-cheering-2000x1296.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam%20cheering-2000x1296.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sam-cheering-2000x1296-800x518.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/grou-960x720.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/grou%5B-960x720.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/grou-960x720-800x511.jpeg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/79688724-2581886195192427-3238242566218448896-o-960x6400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/79688724_2581886195192427_3238242566218448896_o-960x640.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/79688724-2581886195192427-3238242566218448896-o-960x640-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -1353,7 +1355,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/light-2-480x503.jpg",
+                "image": "@PROJECT_PATH@/assets/images/light%202-480x503.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/light-2-480x503-480x503.jpg",
                 "alt": "",
                 "title": "",
