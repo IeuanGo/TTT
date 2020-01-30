@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact-us.html",
+    "currentPage": "meet-the-team.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://tenbytechnoteam.tk",
-    "uniqCompNum": 52,
+    "uniqCompNum": 45,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "witsec-language": "en",
@@ -36,7 +36,7 @@
     "meet-the-team.html": {
       "settings": {
         "title": "Meet the Team",
-        "order": 4,
+        "order": 3,
         "meta_descr": "You've read about what we do and what we plan to do, now it's time to see who we are."
       },
       "components": [
@@ -457,20 +457,20 @@
             "overlayOpacity": 0.5
           },
           "text": "Follow Us",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/TenbyTechno/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fab fa-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ygs_firsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ygsfirsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ygs_firsttech/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1e"
+          "_anchor": "social-buttons2-s"
         }
       ]
     },
     "contact-us.html": {
       "settings": {
         "title": "Contact Us",
-        "order": 5,
+        "order": 4,
         "meta_descr": "If you would like to contact Tenby Techno Team this is the place to go. We will try to respond to your message ASAP."
       },
       "components": [
@@ -651,13 +651,13 @@
             "overlayOpacity": 0.5
           },
           "text": "Follow Us",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/TenbyTechno/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fab fa-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ygs_firsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ygsfirsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ygs_firsttech/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1f"
+          "_anchor": "social-buttons2-6"
         }
       ]
     },
@@ -731,7 +731,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grou%5B-960x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ftc-960x320.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -744,7 +744,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "First Tech Challenge&nbsp;",
-          "text": "<b>Finalist </b>&amp; <b>#1</b> Ranking of Southwest Regional Tournament - Bristol 28/01/2020<br><br>Want to join &amp; support something amazing? Click <a href=\"sponsorships.html\">here</a>.",
+          "text": "<b>Finalist </b>&amp; <b>#1</b> Ranking of Southwest Regional Tournament - Bristol 28/01/2020<br><br>Want to join &amp; support something amazing? Click <a href=\"sponsorships.html\">here</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"javascript:OpenModal('countdown-timer')\" data-toolbar=\"-mbrBtnMove\">Count down till scrimmage</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -983,7 +983,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Follow Us",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/TenbyTechno/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fab fa-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ygs_firsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ygsfirsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ygs_firsttech/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1022,7 +1022,7 @@
     "southwest- tournament.html": {
       "settings": {
         "title": "Southwest Tournament",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1101,35 +1101,13 @@
             }
           },
           "_anchor": "footer1-18"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#e3f5fa",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Follow Us",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/TenbyTechno/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fab fa-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1c"
         }
       ]
     },
     "sponsorships.html": {
       "settings": {
         "title": "Sponsorships",
-        "order": 3,
+        "order": 2,
         "header_custom": "",
         "meta_descr": "Join something amazing and help support a local STEM project in the community. "
       },
@@ -1266,22 +1244,22 @@
             "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/light%202-480x503.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#FFF8E0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#fff8e0",
+            "overlay": false,
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Interested in Becoming a Sponsor?",
+          "title": "Intrested in Becoming a Sponsor?",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>We are a finalist &amp; #1 Ranking of Southwest Regional Tournament - Bristol 28/01/2020</p><p>Join something amazing and help support a local STEM project in the community. For our First Tech Challenge we are required to get money for the following:\n</p><p>• Transportation - This is a requirement since First Tech Venues are hosted offsite.\n</p><p>• Replacement and additional Parts - To make our robot the greatest it can be, we need to buy additional parts from the Rev website (the Robot parts manufacture).</p><p>\n</p><p>• Accommodation - Good sleep means, a very happy and proud team</p><p><span style=\"font-size: 1.25rem;\">Please do not fear, your money will go directly to the company we are ordering from, so you know exactly what we are doing with it.</span></p><p>As a sponsor you will get to see regular updates to see how your contribution is helping us.</p><p>\n</p><p> \n</p>",
+          "text": "<p>We are a finalist &amp; #1 Ranking of Southwest Regional Tournament - Bristol 28/01/2020</p><p>Join something amazing and help support a local STEM project in the community. For our First Tech Challenge we are required to get money for the following:\n</p><p>• Transportation - This is a requirement since First Tech Venues are hosted offsite.\n</p><p>• Replacement and additional Parts - To make our robot the greatest it can be, we need to buy additional parts from the Rev website (the Robot parts manufacture).</p><p>\n</p><p>• Accommodation - Good sleep means, a very happy and proud team</p><p><span style=\"font-size: 1.25rem;\">Please do not fear, your money will go directly to the company we are ordering from, so you know exactly what we are doing with it.</span></p><p>As a sponsor you will get to see regular updates to see how your contribution is helping us.\n</p><p> \n</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>  ",
           "alias": "purity/components",
           "_tags": [
@@ -1304,13 +1282,13 @@
             "overlayOpacity": 0.5
           },
           "text": "Follow Us",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TenbyTechno\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/TenbyTechno/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fab fa-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ygs_firsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ygsfirsttech\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ygs_firsttech/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1d"
+          "_anchor": "social-buttons2-r"
         }
       ]
     }
