@@ -185,7 +185,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/contact-us\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/sponsorships\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/meet-the-team\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -193,12 +193,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://tenbytechnoteam.tk/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://tenbytechnoteam.tk/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -539,7 +539,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/contact-us\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/sponsorships\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/meet-the-team\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -547,12 +547,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://tenbytechnoteam.tk/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://tenbytechnoteam.tk/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -700,7 +700,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/contact-us\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/sponsorships\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/meet-the-team\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -708,12 +708,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://tenbytechnoteam.tk/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://tenbytechnoteam.tk/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -987,7 +987,7 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-button"
+          "_anchor": "social-buttons2-e"
         },
         {
           "_params": {
@@ -1054,7 +1054,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/contact-us\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/sponsorships\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/meet-the-team\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -1062,12 +1062,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://tenbytechnoteam.tk/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://tenbytechnoteam.tk/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -1163,7 +1163,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/contact-us\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/sponsorships\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://tenbytechnoteam.tk/meet-the-team\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html#header4-e\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#social-buttons2-e\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>Follow Us</a> </li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"contact-us.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact Us &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"sponsorships.html\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Sponsorship's</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"meet-the-team.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Meet the Team</a> </li>",
           "logo": {
             "image": {
               "active": true,
@@ -1171,12 +1171,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://tenbytechnoteam.tk/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://tenbytechnoteam.tk/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tenby Techno Team&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -1265,7 +1265,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sam-cheering-2000x1296.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/light-2-480x503.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#FFF8E0",
@@ -1280,7 +1280,7 @@
           "title": "Interested in Becoming a Sponsor?",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>We are a finalist &amp; #1 Ranking of Southwest Regional Tournament - Bristol 28/01/2020</p><p>Join something amazing and help support a local STEM project in the community. For our First Tech Challenge we are required to get money for the following:\n</p><p>• Transportation - This is a requirement since First Tech Venues are hosted offsite.\n</p><p>• Replacement and additional Parts - To make our robot the greatest it can be, we need to buy additional parts from the Rev website (the Robot parts manufacture).</p><p>\n</p><p>• Accommodation - Good sleep means, a very happy and proud team</p><p><span style=\"font-size: 1.25rem;\">Please do not fear, your money will go directly to the company we are ordering from, so you know exactly what we are doing with it.</span></p><p>As a sponsor you will get to see regular updates to see how your contribution is helping us.</p><p>\n</p><p> \n</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://tenbytechnoteam.tk/meet-the-team\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>  ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>  ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
