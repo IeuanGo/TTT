@@ -916,14 +916,14 @@
             "count": "3",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sam-cheering-2000x1296.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "header": "What Our Team Members Think",
           "items": [
@@ -935,12 +935,12 @@
             {
               "authorName": "Will R",
               "authorBio": "Data Officer",
-              "text": "<p>\"I'm Will and I'm the data officer. My role is very imporant, I have to file all our successes and any miskates.\"</p><p><br></p>"
+              "text": "<p>\"I'm Will and I'm the data officer. My role is very important, I have to file all our successes and any mistakes.\"</p><p><br></p><p>\n</p><p>\n</p>"
             },
             {
               "authorName": "Mrs Price",
               "authorBio": "Team Lead",
-              "text": "<i>\"I am the team lead for Tenby Techno Team, &nbsp;the best thing about is the team getting together. Everyone has worked amazing as a team and found new talents and improved with their skills. This has also rasied the profile of the school.\"</i>"
+              "text": "<i>\"I am the team lead for Tenby Techno Team, &nbsp;the best thing about is the team getting together. Everyone has worked amazing as a team and found new talents and improved with their skills. This has also raised the profile of the school.\"</i>"
             },
             {
               "authorName": "John Smith",
@@ -974,6 +974,9 @@
           "_styles": {
             ".card-block I": {
               "font-size": "16px"
+            },
+            ".mbr-section-title": {
+              "color": "#fff8e0"
             }
           }
         },
@@ -1323,7 +1326,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/79688724-2581886195192427-3238242566218448896-o-960x6401.jpg",
+                "image": "@PROJECT_PATH@/assets/images/79688724-2581886195192427-3238242566218448896-o-960x6400.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/79688724-2581886195192427-3238242566218448896-o-960x640-800x533.jpg",
                 "alt": "",
                 "title": "",
