@@ -913,7 +913,7 @@
             "showTitle": true,
             "showName": true,
             "showBio": true,
-            "count": 3,
+            "count": "3",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -928,19 +928,24 @@
           "header": "What Our Team Members Think",
           "items": [
             {
-              "authorName": "Name&nbsp;",
-              "authorBio": "Team Role",
-              "text": "<em>amazing feedback to go here</em>"
+              "authorName": "Jem",
+              "authorBio": "Inventory Manager",
+              "text": "<p><i>\"I like this challenge this year because it has been fun and I've met some friends. I would like to this again next year!\"</i></p><p><i><br></i></p>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<i>amazing feedback to go here</i>"
+              "authorName": "Will R",
+              "authorBio": "Data Officer",
+              "text": "<p>\"I'm Will and I'm the data officer. My role is very imporant, I have to file all our successes and any miskates.\"</p><p><br></p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>amazing feedback to go here</em>"
+              "authorName": "Mrs Price",
+              "authorBio": "Team Lead",
+              "text": "<i>\"I am the team lead for Tenby Techno Team, &nbsp;the best thing about is the team getting together. Everyone has worked amazing as a team and found new talents and improved with their skills. This has also rasied the profile of the school.\"</i>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
             }
           ],
           "alias": "purity/components",
@@ -951,19 +956,19 @@
           "_anchor": "testimonials1-5",
           "testimonial": [
             {
-              "authorName": "Name&nbsp;",
-              "authorBio": "Team Role",
-              "text": "<em>amazing feedback to go here</em>"
+              "authorName": "Jem",
+              "authorBio": "Inventory Manager",
+              "text": "<p><i>\"I like this challenge this year because it has been fun and I've met some friends. I would like to this again next year!\"</i></p><p><i><br></i></p>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<i>amazing feedback to go here</i>"
+              "authorName": "Will R",
+              "authorBio": "Data Officer",
+              "text": "<p>\"I'm Will and I'm the data officer. My role is very imporant, I have to file all our successes and any miskates.\"</p><p><br></p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>amazing feedback to go here</em>"
+              "authorName": "Mrs Price",
+              "authorBio": "Team Lead",
+              "text": "<i>\"I am the team lead for Tenby Techno Team, &nbsp;the best thing about is the team getting together. Everyone has worked amazing as a team and found new talents and improved with their skills. This has also rasied the profile of the school.\"</i>"
             }
           ]
         },
