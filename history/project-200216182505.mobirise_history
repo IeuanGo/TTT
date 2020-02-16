@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "southwest-tournament.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -218,7 +218,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p>Copyright © 2020 Tenby Techno Team | Developed by Ieuan</p>",
+          "text": "Copyright © 2019 Tenby Techno Team | Developed by Ieuan",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -594,7 +594,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p>Copyright © 2020 Tenby Techno Team | Developed by Ieuan</p>",
+          "text": "Copyright © 2019 Tenby Techno Team | Developed by Ieuan",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1002,7 +1002,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p>Copyright © 2020 Tenby Techno Team | Developed by Ieuan</p>",
+          "text": "Copyright © 2019 Tenby Techno Team | Developed by Ieuan",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1089,7 +1089,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p>Copyright © 2020 Tenby Techno Team | Developed by Ieuan</p>",
+          "text": "Copyright © 2019 Tenby Techno Team | Developed by Ieuan",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1263,6 +1263,32 @@
         },
         {
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/it-background-3-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2019 Tenby Techno Team | Developed by Ieuan",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-18"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
@@ -1387,32 +1413,6 @@
           "_anchor": "social-buttons2-1c"
         },
         {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/it-background-3-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<p>Copyright © 2020 Tenby Techno Team | Developed by Ieuan</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-o",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -1516,9 +1516,6 @@
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
-            },
-            "undefined": {
-              "text-align": "center"
             }
           },
           "_name": "design-block",
@@ -1713,7 +1710,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p>Copyright © 2020 Tenby Techno Team | Developed by Ieuan</p>",
+          "text": "Copyright © 2019 Tenby Techno Team | Developed by Ieuan",
           "alias": "purity/components",
           "_tags": [
             "Theme"

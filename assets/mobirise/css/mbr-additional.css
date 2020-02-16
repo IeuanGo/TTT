@@ -140,12 +140,6 @@
 }
 }
 
-#footer1-18 {
-P {
-  text-align: center;
-}
-}
-
 #header1-1g {
 }
 
@@ -153,6 +147,12 @@ P {
 }
 
 #social-buttons2-1c {
+}
+
+#footer1-o {
+P {
+  text-align: center;
+}
 }
 
 #design-block-yyoKZKTnSf {
@@ -257,6 +257,9 @@ h2 {
       background: linear-gradient(to left, @overlayColor, @overlayColor2) !important;
     }
   }
+}
+undefined {
+  text-align: center;
 }
 }
 
