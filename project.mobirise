@@ -29,6 +29,8 @@
     "cookiesAlert": false,
     "imageResize": true,
     "htmltag": "<html>",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "header_custom": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->\n\n\n",
     "google-analytics": "<script>\n\nconsole.log(\"© Tenby Techno Team | Website built by Ieuan. ;)\\n\\nhttps://github.com/IeuanGo\");\n\n</script>"
   },
