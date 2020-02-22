@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -29,7 +29,9 @@
     "cookiesAlert": false,
     "imageResize": true,
     "htmltag": "<html>",
-    "header_custom": "",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "header_custom": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->\n\n\n",
     "google-analytics": "<script>\n\nconsole.log(\"© Tenby Techno Team | Website built by Ieuan. ;)\\n\\nhttps://github.com/IeuanGo\");\n\n</script>"
   },
   "pages": {
@@ -37,8 +39,7 @@
       "settings": {
         "title": "Meet the Team",
         "order": 5,
-        "meta_descr": "You've read about what we do and what we plan to do, now it's time to see who we are.",
-        "html_before": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->"
+        "meta_descr": "You've read about what we do and what we plan to do, now it's time to see who we are."
       },
       "components": [
         {
@@ -472,8 +473,7 @@
       "settings": {
         "title": "Contact Us",
         "order": 6,
-        "meta_descr": "If you would like to contact Tenby Techno Team this is the place to go. We will try to respond to your message ASAP.",
-        "html_before": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->"
+        "meta_descr": "If you would like to contact Tenby Techno Team this is the place to go. We will try to respond to your message ASAP."
       },
       "components": [
         {
@@ -670,7 +670,7 @@
         "meta_descr": "We are Tenby Techno Team this year we have entered to compete in the First Tech Challenge.",
         "header_custom": "<meta name=\"google-site-verification\" content=\"W2vsjNtZ5KEAr95fCHgEMnZdqXF1hN-sSNfzNEHi9c0\" />\n",
         "footer_custom": "",
-        "html_before": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->"
+        "html_before": ""
       },
       "components": [
         {
@@ -1039,8 +1039,7 @@
         "title": "Sponsorship's",
         "order": 4,
         "header_custom": "",
-        "meta_descr": "Join something amazing and help support a local STEM project in the community. ",
-        "html_before": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->"
+        "meta_descr": "Join something amazing and help support a local STEM project in the community. "
       },
       "components": [
         {
@@ -1226,8 +1225,7 @@
     "southwest-tournament.html": {
       "settings": {
         "title": "Southwest Tournament",
-        "order": 3,
-        "html_before": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->"
+        "order": 3
       },
       "components": [
         {
@@ -1665,8 +1663,7 @@
     "donors.html": {
       "settings": {
         "title": "Donors",
-        "order": 2,
-        "html_before": "<!--\n___________          ___.           ___________           .__                    ___________                    \n\\__    ___/___   ____\\_ |__ ___.__. \\__    ___/___   ____ |  |__   ____   ____   \\__    ___/___ _____    _____  \n  |    |_/ __ \\ /    \\| __ <   |  |   |    |_/ __ \\_/ ___\\|  |  \\ /    \\ /  _ \\    |    |_/ __ \\\\__  \\  /     \\\n  |    |\\  ___/|   |  \\ \\_\\ \\___  |   |    |\\  ___/\\  \\___|   Y  \\   |  (  <_> )   |    |\\  ___/ / __ \\|  Y Y  \\\n  |____| \\___  >___|  /___  / ____|   |____| \\___  >\\___  >___|  /___|  /\\____/    |____| \\___  >____  /__|_|  /\n             \\/     \\/    \\/\\/                   \\/     \\/     \\/     \\/                      \\/     \\/      \\/\n\n© Tenby Techno Team 2019-2020 by Ieuan ;)\n-->"
+        "order": 2
       },
       "components": [
         {
