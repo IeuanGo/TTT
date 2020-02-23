@@ -396,3 +396,26 @@ h2 {
 #footer1-1p P {
   text-align: center;
 }
+#dropdown-menu-1s .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1s .nav .link,
+#dropdown-menu-1s .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1s .navbar,
+#dropdown-menu-1s .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1s .dropdown-menu a:hover,
+#dropdown-menu-1s .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1s .navbar-toggler {
+  color: #000000;
+}
+#footer1-1t P {
+  text-align: center;
+}
