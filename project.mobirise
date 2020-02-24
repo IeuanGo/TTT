@@ -29,8 +29,10 @@
     "cookiesAlert": false,
     "imageResize": true,
     "htmltag": "<html>",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "header_custom": "",
-    "google-analytics": "<script>\n\nconsole.log(\"© Tenby Techno Team | Website built by Ieuan. ;)\\n\\nhttps://github.com/IeuanGo\");\n\n</script>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-158899132-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-158899132-1');\n</script>\n\n\n<script>\n\nconsole.log(\"© Tenby Techno Team | Website built by Ieuan. ;)\\n\\nhttps://github.com/IeuanGo\");\n\n</script>"
   },
   "pages": {
     "meet-the-team.html": {
@@ -1840,7 +1842,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -1871,7 +1873,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-2.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
