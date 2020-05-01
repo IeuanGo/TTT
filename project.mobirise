@@ -22,7 +22,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://tenbytechnoteam.tk",
     "uniqCompNum": 73,
-    "versionPublish": "4.12.0",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "witsec-language": "en",
     "witsec-white-label": true,
@@ -741,42 +741,6 @@
           ],
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffef03",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Trip to London <b>Cancelled</b>",
-          "text": "We have unfortunately had to cancelled the trip, read more about it <a href=\"https://www.firstuk.org/coronavirus-ceo-statement/\" target=\"_blank\" class=\"text-primary\">here</a>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-20",
-          "_styles": {
-            "H2": {
-              "color": "#d9534f"
-            }
-          }
         },
         {
           "_inherit": "header1",
